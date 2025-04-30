@@ -33,6 +33,6 @@ and accurate assessment of a candidate’s suitability for a role.
 # Compoent Diagram - 
 
 <p align="center">
-   <img src ="https://github.com/user-attachments/assets/38ee30f7-0d9b-4686-b939-b08214d507bb">
+   <img src ="Assets/Screenshot 2025-04-30 133710.png">
 
 </p>
