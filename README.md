@@ -4,21 +4,18 @@
 | :---               |     :---:           |          :---:       |         :---:         |       :---:   |
 | Kasthurirathna K.T.A.D.K    | IT21815614          | 070 2217521         | it21815614@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)     |
 | De Silva R.S.K    | IT21834424          | 070 3339026          | it21834424@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
-| Kumara B.D.A.M       | IT21819810          | 076 9176998          | it21819810 @my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
+| Kumara B.D.A.M       | IT21819810          | 076 9176998          | it21819810@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
 | Gunasekara S.U.D.A | IT21838620          | 076 2712200          | it21838620@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |                     
 
 
 # Brief Description of  The Research Problem -
 ```
-Excessive digital screen use among students during and after the COVID-19 pandemic
-has led to significant health issues. With educational activities shifting entirely
-online, students experienced prolonged screen exposure and reduced physical activity,
-contributing to various health complications.The lack of movement, poor posture,
-and increased stress levels exacerbated these problems.Common health concerns include
-weakened bones and muscles,immune system issues, obesity, and cardiovascular problems. Additionally, 
-prolonged screen time has led to posture-related issues such as back and neck pain,
-as well as eye problems like Computer Vision Syndrome (CVS). The absence of effective monitoring
-and intervention has further increased the risk of long-term health consequences.
+Traditional candidate selection methods primarily rely on resumes, academic qualifications,
+and structured interviews, which often overlook essential soft skills such as confidence,
+stress level, decision making ability. This gap leads to poor alignment between job roles and candidates,
+causing increased employee turnover, reduced productivity, and inefficient hiring outcomes.
+The research problem focuses on addressing this limitation by exploring innovative approaches
+to evaluate soft skills more accurately during the recruitment process.
 ```
 
 # Brief Description of  The Research Solution -
