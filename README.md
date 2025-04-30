@@ -12,8 +12,8 @@
 ```
 Traditional candidate selection methods primarily rely on resumes, academic qualifications,
 and structured interviews, which often overlook essential soft skills such as confidence,
-stress level, decision making ability. This gap leads to poor alignment between job roles and candidates,
-causing increased employee turnover, reduced productivity, and inefficient hiring outcomes.
+stress level, decision making ability. This gap leads to poor alignment between job roles a
+nd candidates,causing increased employee turnover, reduced productivity, and inefficient hiring outcomes.
 The research problem focuses on addressing this limitation by exploring innovative approaches
 to evaluate soft skills more accurately during the recruitment process.
 ```
@@ -22,10 +22,11 @@ to evaluate soft skills more accurately during the recruitment process.
 ```
 To overcome the limitations of traditional hiring methods, this research proposes a multi-modal
 AI-based candidate evaluation system that predicts critical soft skills through advanced behavioral analysis.
-Confidence is assessed through voice tone and speech patterns, stress levels are identified using facial expression analysis,
-hand gestures are analyzed to further validate confidence, decision-making skills are predicted through text analysis
-of candidate responses, and engagement is measured via eye movement and eye contact tracking. By integrating these technologies,
-the system provides a more holistic and accurate assessment of a candidate’s suitability for a role.
+Confidence is assessed through voice tone and speech patterns, stress levels are identified using
+facial expression analysis,hand gestures are analyzed to further validate confidence, decision-making skills
+are predicted through text analysis of candidate responses, and engagement is measured via eye movement
+and eye contact tracking. By integrating these technologies,the system provides a more holistic
+and accurate assessment of a candidate’s suitability for a role.
 
 ```
 
