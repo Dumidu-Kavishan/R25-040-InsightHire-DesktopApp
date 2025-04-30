@@ -20,12 +20,12 @@ to evaluate soft skills more accurately during the recruitment process.
 
 # Brief Description of  The Research Solution -
 ```
-To address these issues, this research aims to develop a system that utilizes image
-processing to monitor student activity. The system will track blinking rates, screen time,
-posture, and facial expressions to detect signs of stress. By analyzing these factors, the system
-will provide real-time reminders to encourage students to take breaks, stretch, or
-adjust their posture. This approach seeks to minimize health risks associated with excessive
-screen use and promote healthier study habits among students.
+To overcome the limitations of traditional hiring methods, this research proposes a multi-modal
+AI-based candidate evaluation system that predicts critical soft skills through advanced behavioral analysis.
+Confidence is assessed through voice tone and speech patterns, stress levels are identified using facial expression analysis,
+hand gestures are analyzed to further validate confidence, decision-making skills are predicted through text analysis
+of candidate responses, and engagement is measured via eye movement and eye contact tracking. By integrating these technologies,
+the system provides a more holistic and accurate assessment of a candidate’s suitability for a role.
 
 ```
 
